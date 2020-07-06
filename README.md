@@ -1,2 +1,3 @@
-# rarewasayapp
-official rarewasay app with a login page, and a constant live feed of rarewasay's videos!
+#RareWasay World
+✨ *Official RareWasay app with a login/registration page, and a 🔴 LIVE FEED of RareWasay's videos!
+⚡ Compiled in C#
