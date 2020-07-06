@@ -1,12 +1,12 @@
-# RareWasay World
+# rarewasay world
 
-📦 Full-blown RareWasay app, so you can express your inner RareWasay
+📦 full-blown rarewasay app, so you can express your inner rarewasay
 
-✨ Features :
+# ✨ features :
 
 login/registration page
 
 a continous LIVE FEED of rarewasay's videos!
 
 
-⚡ Compiled in C#
+⚡ compiled in c#
