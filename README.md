@@ -1,5 +1,11 @@
 # RareWasay World
 
-✨ *Official RareWasay app with a login/registration page, and a 🔴 LIVE FEED of RareWasay's videos!*
+✨ Full-blown RareWasay app, so you can express your inner RareWasay
+
+🥇 features :
+
+login/registration page;;
+
+a continous LIVE FEED of rarewasay's videos!;;
 
 ⚡ Compiled in C#
