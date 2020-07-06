@@ -1,12 +1,12 @@
 # rarewasay world
 
-📦 full-blown rarewasay app, so you can express your inner rarewasay
+📦 *rarewasay world is a simple, intuitive app where you can connect with your inner rarewasay, built in csharp.*
 
-# ✨ features
+# features
 
-login/registration page
+login/registration page backed up with local encryption 💡
 
-a continous LIVE FEED of rarewasay's videos!
+a continous 🔴 **live feed** of rarewasay's videos!
 
 
 ⚡ compiled in c#
