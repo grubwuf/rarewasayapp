@@ -2,7 +2,7 @@
 
 📦 full-blown rarewasay app, so you can express your inner rarewasay
 
-# ✨ features :
+# ✨ features
 
 login/registration page
 
