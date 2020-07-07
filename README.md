@@ -1,10 +1,11 @@
-# rarewasay world
-
 ![p-trans (1)](https://user-images.githubusercontent.com/67848586/86675761-f6e7b980-bfc7-11ea-8dfa-65ec4ae23713.png)
+# rarewasay app
 
 
 
-📦 *rarewasay world is a simple, intuitive app where you can connect with your inner rarewasay, built in csharp.*
+
+
+📦 *rarewasay app is a simple, intuitive program where you can connect with your inner rarewasay, built in csharp.*
 
 
 
