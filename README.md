@@ -8,5 +8,7 @@ login/registration page backed up with local encryption 💡
 
 a continous 🔴 **live feed** of rarewasay's videos!
 
+⚡ lighting fast speeds with more privacy
 
-⚡ compiled in c#
+# installation
+no required dependencies, just run 'n go! 🏃
