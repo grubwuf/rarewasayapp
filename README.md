@@ -1,6 +1,6 @@
 # rarewasay world
 
-
+![p-trans (1)](https://user-images.githubusercontent.com/67848586/86675761-f6e7b980-bfc7-11ea-8dfa-65ec4ae23713.png)
 
 
 
