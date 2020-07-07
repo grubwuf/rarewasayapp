@@ -1,6 +1,14 @@
 # rarewasay world
 
+
+
+
+
 📦 *rarewasay world is a simple, intuitive app where you can connect with your inner rarewasay, built in csharp.*
+
+
+
+
 
 # features
 
