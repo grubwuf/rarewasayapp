@@ -22,3 +22,5 @@ a continous 🔴 **live feed** of rarewasay's videos!
 # installation
 
 no required dependencies, just *run 'n go! 🏃*
+
+(psst...don't you worry if you can't run C# files, I'm going to add a .exe version aswell!)
